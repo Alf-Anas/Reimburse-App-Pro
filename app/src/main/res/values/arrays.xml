@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="type">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+    <string-array name="receipt">
+        <item>No Receipt</item>
+        <item>Receipt Exist</item>
+    </string-array>
+</resources>
